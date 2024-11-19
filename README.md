@@ -33,15 +33,26 @@ git clone https://github.com/yourusername/flexiple-react-app.git
 ### 3.Set up Tailwind CSS (If not already set up)
 
 - If Tailwind is not already set up, run:
-- npm install -D tailwindcss postcss autoprefixer
-- npx tailwindcss init
-- @tailwind base;
-- @tailwind components;
-- @tailwind utilities;
+
+```bash
+npm install -D tailwindcss postcss autoprefixer
+```
+
+```bash
+npx tailwindcss init
+```
+
+```bash
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
 
 ### 4. Run the app
 
-- npm start
+```bash
+npm start
+```
 
 ### Folder Structure
 
