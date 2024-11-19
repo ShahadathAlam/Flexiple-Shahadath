@@ -28,7 +28,10 @@ git clone https://github.com/yourusername/flexiple-react-app.git
 ### 2. Install dependencies
 
 - Navigate to the project directory and run:
-  -npm install
+
+```bash
+npm install
+```
 
 ### 3.Set up Tailwind CSS (If not already set up)
 
